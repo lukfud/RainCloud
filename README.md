@@ -1,5 +1,17 @@
 `Nowa odsłona firmware'u dla sterwoników nawadniania w wersjach 4.2 i 5.x`
 
+## `v26.06.13`
+
+- **core**
+
+  aktualizacja certyfikatu SSL dla serwera aktualizacji
+  
+  dodana możliwość ustawienia statycznego adresu IP
+  
+  drobne poparwki
+  
+- **aktualizacja bibliotek**
+
 ## `v26.05.28`
 
 ```
