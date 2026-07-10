@@ -1,5 +1,15 @@
 `Nowa odsłona firmware'u dla sterwoników nawadniania w wersjach 4.2 i 5.x`
 
+## `v26.07.10`
+
+- **core**
+
+  aktualizacja pauzy cyklu, zapamiętywany jest także czas do zakończenia, a nie tylko numer sekcji
+  
+  dodany multiDS (do 4 kanałów), parowanie odbywa się poprzez przycisk w Cloud
+  
+- **aktualizacja bibliotek**
+
 ## `v26.06.13`
 
 - **core**
