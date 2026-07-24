@@ -146,4 +146,4 @@ Po aktualizacji pojwi się "konflikt kanałów". Wymagane będzie usunięcie urz
 
 - **podlewa.cz**
 
-  dodany status (brak połączenia z serwisem, błędy url, przekroczona ilość zapytań) sygnalizowany pomarańczowym kolorem piątej diody RGB
+  dodany status (brak połączenia z serwisem [podlewa.cz](https://podlewa.cz), błędy url, przekroczona ilość zapytań) sygnalizowany pomarańczowym kolorem piątej diody RGB
